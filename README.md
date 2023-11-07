@@ -2,7 +2,6 @@
 
 LIVE SITE - https://652456865793a02597ef2a6c--superlative-pudding-69df03.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
